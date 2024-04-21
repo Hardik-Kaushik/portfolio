@@ -42,7 +42,7 @@ $(document).ready(function () {
         strings: [
             "Sophomere CSE Student",
             "Coder",
-            "ML Enthusiast",
+            "Web Developer",
             "Learner",
             "Leader"
         ],
@@ -55,7 +55,7 @@ $(document).ready(function () {
         strings: [
             "Sophomere CSE Student",
             "Coder",
-            "ML Enthusiast",
+            "Web Developer",
             "Learner",
             "Leader"
         ],

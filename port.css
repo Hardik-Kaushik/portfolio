@@ -508,6 +508,9 @@ a {
 .projects .carousel .card:hover .box {
     transform: scale(1.05);
 }
+#sus{
+    margin-bottom: 80px;
+}
 
 .projects .carousel .card .text {
     font-size: 25px;
